@@ -14,5 +14,5 @@ The analysis approach involves the following steps:
 
 
 # And ! Here is the final map! :metal:
-![Map](/Result/Sample_map.png)
+![Map](/Sample_map.png)
 
